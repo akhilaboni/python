@@ -1,0 +1,5 @@
+maths=int(input("Enter maths marks:"))
+physics=int(input("Enter physics marks":))
+chemistry=int(input("Enter chemistry marks":))
+average=(maths+physics+chemistry)/3
+print(average)
